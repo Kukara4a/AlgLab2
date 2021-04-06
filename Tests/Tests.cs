@@ -88,6 +88,10 @@ namespace AlgorithmsLab2
             var list1 = new List<string>() { "aaaaaaa", "aaaaa", "aaa", "a" };
             RadixSorting.Sorting(list1, 7, 1);
             Assert.AreEqual(new List<string>() { "aaaaaaa", "aaaaa", "aaa", "a" }, list1);
+
+            var list2 = new List<string>() { "dcba", "cba", "ba", "a" };
+            RadixSorting.Sorting(list2, 7, 1);
+            Assert.AreEqual(new List<string>() { "a", "ba", "cba", "dcba" }, list2);
         }
     }
 }
