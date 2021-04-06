@@ -1,0 +1,15 @@
+C:\Users\Илья\source\repos\AlgorithmsLab2\.vs\AlgorithmsLab2\v16\lut\0\b\AlgorithmsLab2\Debug\netcoreapp3.1\AlgorithmsLab2.exe
+C:\Users\Илья\source\repos\AlgorithmsLab2\.vs\AlgorithmsLab2\v16\lut\0\b\AlgorithmsLab2\Debug\netcoreapp3.1\AlgorithmsLab2.deps.json
+C:\Users\Илья\source\repos\AlgorithmsLab2\.vs\AlgorithmsLab2\v16\lut\0\b\AlgorithmsLab2\Debug\netcoreapp3.1\AlgorithmsLab2.runtimeconfig.json
+C:\Users\Илья\source\repos\AlgorithmsLab2\.vs\AlgorithmsLab2\v16\lut\0\b\AlgorithmsLab2\Debug\netcoreapp3.1\AlgorithmsLab2.runtimeconfig.dev.json
+C:\Users\Илья\source\repos\AlgorithmsLab2\.vs\AlgorithmsLab2\v16\lut\0\b\AlgorithmsLab2\Debug\netcoreapp3.1\AlgorithmsLab2.dll
+C:\Users\Илья\source\repos\AlgorithmsLab2\.vs\AlgorithmsLab2\v16\lut\0\i\AlgorithmsLab2\Debug\netcoreapp3.1\AlgorithmsLab2.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\AlgorithmsLab2\.vs\AlgorithmsLab2\v16\lut\0\i\AlgorithmsLab2\Debug\netcoreapp3.1\AlgorithmsLab2.AssemblyInfo.cs
+C:\Users\Илья\source\repos\AlgorithmsLab2\.vs\AlgorithmsLab2\v16\lut\0\i\AlgorithmsLab2\Debug\netcoreapp3.1\AlgorithmsLab2.csproj.CopyComplete
+C:\Users\Илья\source\repos\AlgorithmsLab2\.vs\AlgorithmsLab2\v16\lut\0\i\AlgorithmsLab2\Debug\netcoreapp3.1\AlgorithmsLab2.dll
+C:\Users\Илья\source\repos\AlgorithmsLab2\.vs\AlgorithmsLab2\v16\lut\0\i\AlgorithmsLab2\Debug\netcoreapp3.1\AlgorithmsLab2.genruntimeconfig.cache
+C:\Users\Илья\source\repos\AlgorithmsLab2\.vs\AlgorithmsLab2\v16\lut\0\b\AlgorithmsLab2\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Илья\source\repos\AlgorithmsLab2\.vs\AlgorithmsLab2\v16\lut\0\b\AlgorithmsLab2\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Илья\source\repos\AlgorithmsLab2\.vs\AlgorithmsLab2\v16\lut\0\b\AlgorithmsLab2\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Илья\source\repos\AlgorithmsLab2\.vs\AlgorithmsLab2\v16\lut\0\b\AlgorithmsLab2\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Илья\source\repos\AlgorithmsLab2\.vs\AlgorithmsLab2\v16\lut\0\b\AlgorithmsLab2\Debug\netcoreapp3.1\nunit.engine.core.dll

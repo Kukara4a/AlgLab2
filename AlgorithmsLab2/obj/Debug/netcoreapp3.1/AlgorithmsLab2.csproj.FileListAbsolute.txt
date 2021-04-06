@@ -1,0 +1,13 @@
+C:\Users\Илья\source\repos\AlgorithmsLab2\AlgorithmsLab2\bin\Debug\netcoreapp3.1\AlgorithmsLab2.exe
+C:\Users\Илья\source\repos\AlgorithmsLab2\AlgorithmsLab2\bin\Debug\netcoreapp3.1\AlgorithmsLab2.deps.json
+C:\Users\Илья\source\repos\AlgorithmsLab2\AlgorithmsLab2\bin\Debug\netcoreapp3.1\AlgorithmsLab2.runtimeconfig.json
+C:\Users\Илья\source\repos\AlgorithmsLab2\AlgorithmsLab2\bin\Debug\netcoreapp3.1\AlgorithmsLab2.runtimeconfig.dev.json
+C:\Users\Илья\source\repos\AlgorithmsLab2\AlgorithmsLab2\bin\Debug\netcoreapp3.1\AlgorithmsLab2.dll
+C:\Users\Илья\source\repos\AlgorithmsLab2\AlgorithmsLab2\bin\Debug\netcoreapp3.1\AlgorithmsLab2.pdb
+C:\Users\Илья\source\repos\AlgorithmsLab2\AlgorithmsLab2\obj\Debug\netcoreapp3.1\AlgorithmsLab2.csprojAssemblyReference.cache
+C:\Users\Илья\source\repos\AlgorithmsLab2\AlgorithmsLab2\obj\Debug\netcoreapp3.1\AlgorithmsLab2.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\AlgorithmsLab2\AlgorithmsLab2\obj\Debug\netcoreapp3.1\AlgorithmsLab2.AssemblyInfo.cs
+C:\Users\Илья\source\repos\AlgorithmsLab2\AlgorithmsLab2\obj\Debug\netcoreapp3.1\AlgorithmsLab2.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\AlgorithmsLab2\AlgorithmsLab2\obj\Debug\netcoreapp3.1\AlgorithmsLab2.dll
+C:\Users\Илья\source\repos\AlgorithmsLab2\AlgorithmsLab2\obj\Debug\netcoreapp3.1\AlgorithmsLab2.pdb
+C:\Users\Илья\source\repos\AlgorithmsLab2\AlgorithmsLab2\obj\Debug\netcoreapp3.1\AlgorithmsLab2.genruntimeconfig.cache
